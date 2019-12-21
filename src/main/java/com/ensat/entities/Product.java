@@ -8,7 +8,7 @@ import javax.persistence.Version;
 import java.math.BigDecimal;
 
 /**
- * Product entity.
+ * Product entity. for table configurations
  */
 @Entity
 public class Product {
