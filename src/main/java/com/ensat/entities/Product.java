@@ -19,7 +19,7 @@ public class Product {
 
     @Version
     private Integer version;
-
+// Added changes
     private String productId;
     private String name;
     private BigDecimal price;
